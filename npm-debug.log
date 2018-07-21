@@ -9,8 +9,8 @@
 6 silly lifecycle vuejsexpress@1.0.0~prestart: no script for prestart, continuing
 7 info lifecycle vuejsexpress@1.0.0~start: vuejsexpress@1.0.0
 8 verbose lifecycle vuejsexpress@1.0.0~start: unsafe-perm in lifecycle true
-9 verbose lifecycle vuejsexpress@1.0.0~start: PATH: C:\Users\Ryan\AppData\Roaming\npm\node_modules\npm\bin\node-gyp-bin;D:\MapTools\node_modules\.bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;F:\Git\cmd;F:\Program Files\nodejs\;E:\Program Files (x86)\WinMerge;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;D:\Program Files (x86)\nodejs\;C:\Users\Ryan\AppData\Local\Microsoft\WindowsApps;C:\Users\Ryan\AppData\Roaming\npm;C:\Users\Ryan\AppData\Local\GitHubDesktop\bin
-10 verbose lifecycle vuejsexpress@1.0.0~start: CWD: D:\MapTools
+9 verbose lifecycle vuejsexpress@1.0.0~start: PATH: C:\Users\Ryan\AppData\Roaming\npm\node_modules\npm\bin\node-gyp-bin;D:\Map-Tool\node_modules\.bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;F:\Git\cmd;F:\Program Files\nodejs\;E:\Program Files (x86)\WinMerge;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;D:\Program Files (x86)\nodejs\;C:\Users\Ryan\AppData\Local\Microsoft\WindowsApps;C:\Users\Ryan\AppData\Roaming\npm;C:\Users\Ryan\AppData\Local\GitHubDesktop\bin
+10 verbose lifecycle vuejsexpress@1.0.0~start: CWD: D:\Map-Tool
 11 silly lifecycle vuejsexpress@1.0.0~start: Args: [ '/d /s /c', 'webpack-dev-server' ]
 12 silly lifecycle vuejsexpress@1.0.0~start: Returned: code: 3221225786  signal: null
 13 info lifecycle vuejsexpress@1.0.0~start: Failed to exec start script
@@ -25,7 +25,7 @@
 14 verbose stack     at maybeClose (internal/child_process.js:925:16)
 14 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
 15 verbose pkgid vuejsexpress@1.0.0
-16 verbose cwd D:\MapTools
+16 verbose cwd D:\Map-Tool
 17 error Windows_NT 10.0.16299
 18 error argv "D:\\Program Files (x86)\\nodejs\\node.exe" "C:\\Users\\Ryan\\AppData\\Roaming\\npm\\node_modules\\npm\\bin\\npm-cli.js" "start"
 19 error node v8.9.1
