@@ -15,6 +15,7 @@
             <div class="form-group">
               <label>Class:</label>
               <input type="text" class="form-control col-md-6" v-model="Character.class" />
+              <div></div>
               <label>Level:</label>
               <input type="text" class="form-control col-md-6" v-model="Character.class" /></div>
           </div>

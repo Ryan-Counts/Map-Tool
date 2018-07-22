@@ -10,6 +10,7 @@
           </div>
           <div class="col-md-2">
             <router-link :to="{ name: 'CreateCharacter' }" class="btn btn-primary">Create Character</router-link>
+            <div></div>
             <router-link :to="{ name: 'CreateClass' }" class="btn btn-primary">Create Class</router-link>
           </div>
         </div><br />

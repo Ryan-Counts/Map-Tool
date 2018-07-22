@@ -14,13 +14,13 @@
             <router-link :to="{ name: 'DisplayAbility' }" class="btn btn-primary">Abilities</router-link>
           </div>
           <div class="col-md-2">
-            <router-link :to="{ name: 'DisplayArchetype' }" class="btn btn-primary">Archetype</router-link>
+            <router-link :to="{ name: 'DisplayArchetype' }" class="btn btn-primary">Archetypes</router-link>
           </div>
           <div class="col-md-2">
-            <router-link :to="{ name: 'DisplaySkill' }" class="btn btn-primary">Skill</router-link>
+            <router-link :to="{ name: 'DisplaySkill' }" class="btn btn-primary">Skills</router-link>
           </div>
           <div class="col-md-2">
-            <router-link :to="{ name: 'DisplaySpell' }" class="btn btn-primary">Spell</router-link>
+            <router-link :to="{ name: 'DisplaySpell' }" class="btn btn-primary">Spells</router-link>
           </div>
         </div><br />
     </div>
