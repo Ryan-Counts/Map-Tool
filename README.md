@@ -21,8 +21,13 @@ npm install
 npm start
 ```
 5) webpack development server will start at: http://localhost:3000
-6) You also need to start the NodeJS server by typing following command.
+6) You also need to start the NodeJS server by typing following command in command prompt administrator mode
 
 ```
-nodemon server
+node server.js
+```
+7) Start the Mongo database with 
+
+```
+"C:\Program Files\MongoDB\Server\4.0\bin\mongod.exe" --dbpath "C:\Users\xpvki\Desktop\Programming\Map-Tool\data\db"
 ```
